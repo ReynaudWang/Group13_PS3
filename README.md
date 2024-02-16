@@ -1,4 +1,4 @@
-This repository contains the coursework of the Group 13. 
+This repository contains the coursework of the Group 13. /n
 It contains three files: 
 - a pdf file for the e-poster,
 - a txt file for our reference sources,
