@@ -1,0 +1,8 @@
+History of biometrics：
+https://recfaces.com/articles/history-of-biometrics
+https://www.biometricupdate.com/201802/history-of-biometrics-2
+
+CNN:
+https://en.wikipedia.org/wiki/Convolutional_neural_network
+https://insightsimaging.springeropen.com/articles/10.1007/s13244-018-0639-9
+https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
